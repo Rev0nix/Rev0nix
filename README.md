@@ -7,4 +7,6 @@ I'm passionate about **design**, **software**, and **web development**.
 🔹 Building creative and functional web solutions  
 🔹 Always learning and improving  
 
-[![Instagram](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F&label=)](https://www.instagram.com/revanth_hm_gowda?igsh=OHhyem5id25senQ4)
+<a href="https://www.instagram.com/revanth_hm_gowda?igsh=OHhyem5id25senQ4">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&label=" alt="Instagram" height="30">
+</a>
