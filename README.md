@@ -1,7 +1,7 @@
 ### Revanth HM 👋  
 
 Hi, I'm Revanth!  
-I'm passionate about **design**, **software**, and **web development**.  
+I'm passionate about  **design**, **software**, and **web development**.  
 
 🔹 Exploring new technologies  
 🔹 Building creative and functional web solutions  
