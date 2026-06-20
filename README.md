@@ -1,7 +1,16 @@
-### Revanth HM 👋  
+### Hi, I'm Revanth HM 👋  
 
-Hi, I'm Revanth!  
-I'm passionate about  **design**, **software**, and **web development**.  
+I'm passionate about  **design**, **software**, and **web development**.
+Full Stack Developer from India
+
+💻 Tech Stack
+- HTML, CSS, JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- Java
 
 🔹 Exploring new technologies  
 🔹 Building creative and functional web solutions  
