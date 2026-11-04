@@ -23,16 +23,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| AETHRIX | Full-stack e-commerce platform |
-| Civic Tracker | Public infrastructure issue reporting |
-| AetherLink | Cross-device connectivity application |
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
