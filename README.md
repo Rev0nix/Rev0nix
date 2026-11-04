@@ -46,15 +46,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rev0nix/Rev0nix/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
