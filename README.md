@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Revanth H M 👋</h1>
+<h1 align="center">Hey, I'm Revanth H M </h1>
 
 <h3 align="center">
   Full-Stack Developer | ISE Student | Tech Enthusiast
@@ -11,8 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
 - 🎓 Information Science & Engineering Student
 - 💻 Passionate about Full-Stack Development
 - 🚀 Building real-world software projects
@@ -23,21 +21,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rev0nix&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0nix&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rev0nix&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/revanth-hm-939476331/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
